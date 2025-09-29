@@ -70,18 +70,18 @@
 
 <h3>Current Sponsor</h3>
 
+<hr />
 <p align="center">
-  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-    <img src="./images/wispr_flow_logo.svg" alt="Wispr Flow Logo" title="Wispr Flow" height="80"/>
-  </a>
+   <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
+     <img src="./images/Wispr_Flow-logo.png" width="400px" alt="Wispr Flow Logo"  title = "Wispr Flow" />
+   </a>
 </p>
 
 <h3 align="center">Dictation that understands code</h3>
-
-<p align="center">
-  <em>Ship 4x faster with developer-first dictation that works in every app.</em>
+<p align="center" style="text-align:center;">
+ <em> Ship 4x faster with developer-first dictation that works in every app.</em>
 </p>
-
+<hr >
 <br>
 
 <h3>🙌 Become a Sponsor</h3>
@@ -91,9 +91,9 @@
 <p>Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟</p>
 
 </div>
-
 ---
 
+- [](#)
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [How to Use Repo](#how-to-use-repo)
