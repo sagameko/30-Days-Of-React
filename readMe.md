@@ -69,20 +69,25 @@
 <p>Our amazing sponsors for supporting my open-source contribution and the <strong>30 Days of Challenge</strong> series!</p>
 
 <h3>Current Sponsor</h3>
-
 <hr />
-<p align="center">
-   <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-     <img src="./images/Wispr_Flow-logo.png" width="400px" alt="Wispr Flow Logo"  title = "Wispr Flow" />
-   </a>
-</p>
+<div align="center">
+  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-Logo-white.png" />
+      <!-- Light mode (fallback) -->
+      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo.png"
+           width="400px"
+           alt="Wispr Flow Logo"
+           title="Wispr Flow" />
+    </picture>
+  </a>
 
-<h3 align="center">Dictation that understands code</h3>
-<p align="center" style="text-align:center;">
- <em> Ship 4x faster with developer-first dictation that works in every app.</em>
-</p>
-<hr >
-<br>
+  <h3>Dictation that understands code</h3>
+  <p><em>Ship 4x faster with developer-first dictation that works in every app.</em></p>
+</div>
+
+---
 
 <h3>🙌 Become a Sponsor</h3>
 
