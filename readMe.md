@@ -6,9 +6,6 @@
 
   <h1> 30 Days Of React</h1>
 
-  <strong>Learn with Asabeneh by joining the upcoming [<em>CODING BOOTCAMP</em>](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform) </strong>
-
-
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -60,9 +57,39 @@
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
-<div>
+<!-- <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
 <a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+</div> -->
+
+---
+<div>
+<h2>💖 Sponsors</h2>
+
+<p>Our amazing sponsors for supporting my open-source contribution and the <strong>30 Days of Challenge</strong> series!</p>
+
+<h3>Current Sponsor</h3>
+
+<p align="center">
+  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
+    <img src="./images/wispr_flow_logo.svg" alt="Wispr Flow Logo" title="Wispr Flow" height="80"/>
+  </a>
+</p>
+
+<h3 align="center">Dictation that understands code</h3>
+
+<p align="center">
+  <em>Ship 4x faster with developer-first dictation that works in every app.</em>
+</p>
+
+<br>
+
+<h3>🙌 Become a Sponsor</h3>
+
+<p>You can support this project by becoming a sponsor on <strong><a href="https://github.com/sponsors/asabeneh">GitHub Sponsors</a></strong> or through <strong><a href="https://www.paypal.me/asabeneh">PayPal</a></strong>.</p>
+
+<p>Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟</p>
+
 </div>
 
 ---
@@ -107,7 +134,7 @@ If you are good at arrays, loops, functions, objects, functional programming, de
 
 Before you dive into this course, you may check the [review](https://t.me/thirtydaysofreact) of 30 Days Of React.
 
-This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. Subscribe the channel, comment and ask questions on YouTube vides and be proactive, the author will eventually notice you. 
+This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. Subscribe the channel, comment and ask questions on YouTube vides and be proactive, the author will eventually notice you.
 
 The author likes to hear your opinion about the challenge, share your thoughts about the 30DaysOfJavaScript challenge. You can leave your testimonial on this [link](https://www.asabeneh.com/testimonials)
 
